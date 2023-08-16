@@ -1,4 +1,5 @@
-function App() {
+function App(props) {
+
   return (
     <>
     </>
