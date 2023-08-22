@@ -1,0 +1,9 @@
+.foto2{
+    border-radius: 10%;
+    overflow: initial;
+    width: 50px;
+}
+.foto2 img{
+    width: 900%;
+    height: 800%;
+}
